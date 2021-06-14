@@ -1,0 +1,8 @@
+prefix=/home/abhijay/Desktop/MIT-BWH/devel
+
+Name: RPPG
+Description: Description of RPPG
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

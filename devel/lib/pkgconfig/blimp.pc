@@ -1,0 +1,8 @@
+prefix=/home/abhijay/Desktop/MIT-BWH/devel
+
+Name: blimp
+Description: Description of blimp
+Version: 0.0.0
+Cflags: -I/home/abhijay/Desktop/MIT-BWH/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

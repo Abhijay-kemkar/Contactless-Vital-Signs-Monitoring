@@ -1,0 +1,2 @@
+set(ROIDetection_MESSAGE_FILES "/home/abhijay/Desktop/MIT-BWH/src/ROIDetection/msg/RGB.msg")
+set(ROIDetection_SERVICE_FILES "")

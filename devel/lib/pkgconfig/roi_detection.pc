@@ -1,0 +1,8 @@
+prefix=/home/abhijay/Desktop/MIT-BWH/devel
+
+Name: roi_detection
+Description: Description of roi_detection
+Version: 0.0.0
+Cflags: -I/home/abhijay/Desktop/MIT-BWH/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
